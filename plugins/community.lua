@@ -8,4 +8,5 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.git.neogit" },
   { import = "astrocommunity.pack.svelte" },
+  { import = "astrocommunity.pack.terraform" },
 }
